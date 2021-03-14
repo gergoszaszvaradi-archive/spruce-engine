@@ -1,0 +1,24 @@
+# Output dirs
+**/bin
+**/bin-int
+
+# Releases / Scripts
+releases
+release.py
+
+# Visual Studio IDE project files
+.vs
+*.sln
+*.vcxproj
+*.vcxproj.*
+
+# Visual Studio Code files
+.vscode
+
+# GNU make files
+Makefile
+*.make
+
+# NVIDIA Nsight and RenderDoc files
+nsight
+renderdoc

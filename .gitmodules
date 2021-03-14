@@ -1,0 +1,16 @@
+[submodule "spruce/dep/glfw"]
+	path = spruce/dep/glfw
+	url = https://github.com/glfw/glfw
+[submodule "spruce/dep/freetype"]
+	path = spruce/dep/freetype
+	url = https://github.com/freetype/freetype
+[submodule "spruce/dep/imgui"]
+	path = spruce/dep/imgui
+	url = https://github.com/Szivacs/spruce-imgui
+	branch = docking
+[submodule "spruce/dep/entt"]
+	path = spruce/dep/entt
+	url = https://github.com/skypjack/entt
+[submodule "spruce/dep/lua"]
+	path = spruce/dep/lua
+	url = https://github.com/lua/lua
